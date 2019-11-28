@@ -1,0 +1,10 @@
+Zadanie 3.
+
+Tabliczka mnożenia.
+
+Jak w przypadku 'gwiazdek'; podajemy parametr poprzez $_GET. 
+
+Skrypt ma tworzyć tabliczkę mnożenia od 1 do podanej GET'em liczby. 
+Wygląd dowolny, jedynie wynik dla mnożenia tych samych liczba ma być w innym kolorze od reszty, np. wynik 1*1, 3*3, 4*4, etc..
+
+Rozwiazanie powinno byc podobnego do tego: http://gry-dladzieci.pl/pliki_kolorowanek/duze/tabliczka-mnozenia-dla-dzieci_906.jpg
